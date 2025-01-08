@@ -7,7 +7,7 @@ import (
 
 	"bytes"
 
-	pgs "github.com/vaidehi-figma/protoc-gen-star"
+	pgs "github.com/joakim-brannstrom/protoc-gen-star"
 )
 
 type PrinterModule struct {

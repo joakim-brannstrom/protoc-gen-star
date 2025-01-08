@@ -4,7 +4,7 @@ import (
 	"go/format"
 	"strings"
 
-	pgs "github.com/vaidehi-figma/protoc-gen-star"
+	pgs "github.com/joakim-brannstrom/protoc-gen-star"
 )
 
 type goFmt struct{}

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 
 	"github.com/spf13/afero"
-	pgs "github.com/vaidehi-figma/protoc-gen-star"
+	pgs "github.com/joakim-brannstrom/protoc-gen-star"
 	"google.golang.org/protobuf/proto"
 	descriptor "google.golang.org/protobuf/types/descriptorpb"
 )

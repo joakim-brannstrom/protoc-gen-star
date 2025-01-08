@@ -3,9 +3,9 @@ package main
 import (
 	"text/template"
 
-	pgsgo "github.com/vaidehi-figma/protoc-gen-star/lang/go"
+	pgsgo "github.com/joakim-brannstrom/protoc-gen-star/lang/go"
 
-	pgs "github.com/vaidehi-figma/protoc-gen-star"
+	pgs "github.com/joakim-brannstrom/protoc-gen-star"
 )
 
 // JSONifyPlugin adds encoding/json Marshaler and Unmarshaler methods on PB

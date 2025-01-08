@@ -1,4 +1,4 @@
-module github.com/vaidehi-figma/protoc-gen-star
+module github.com/joakim-brannstrom/protoc-gen-star
 
 go 1.17
 

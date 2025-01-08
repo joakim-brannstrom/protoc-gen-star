@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	pgs "github.com/vaidehi-figma/protoc-gen-star"
+	pgs "github.com/joakim-brannstrom/protoc-gen-star"
 	"google.golang.org/protobuf/proto"
 	plugin_go "google.golang.org/protobuf/types/pluginpb"
 )

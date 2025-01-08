@@ -1,8 +1,8 @@
 package main
 
 import (
-	pgs "github.com/vaidehi-figma/protoc-gen-star"
-	pgsgo "github.com/vaidehi-figma/protoc-gen-star/lang/go"
+	pgs "github.com/joakim-brannstrom/protoc-gen-star"
+	pgsgo "github.com/joakim-brannstrom/protoc-gen-star/lang/go"
 )
 
 func main() {
